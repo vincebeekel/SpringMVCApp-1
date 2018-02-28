@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Break this</title>
+<title>dumpster fire</title>
 </head>
 <body>
-Hi!
-${message}
 
-<p> What does this do ?</p>
+${message2 }
+
+<p>hopefully this works</p>
 
 </body>
 </html>

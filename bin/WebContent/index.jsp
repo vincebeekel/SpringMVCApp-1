@@ -15,10 +15,6 @@
 			<a href="welcome.html">Click here to see the welcome page</a>
 			(check HomeController.java to view info for @RequestMapping("/welcome"))
 		</h3>
-		<h1>
-			<a href="NewFile.html">Click here to see the front page</a>
-			(check HomeController.java to view info for @RequestMapping("/NewFile"))
-		</h1>
 	</div>
 </body>
 </html>
